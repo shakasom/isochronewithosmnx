@@ -29,9 +29,7 @@ MarkupSafe==1.1.1
 matplotlib==3.1.1
 mistune==0.8.4
 munch==2.3.2
-nb-conda-kernels==2.2.2
-nbconvert==5.6.0
-nbformat==4.4.0
+
 networkx==2.3
 notebook==6.0.1
 numpy==1.17.2
